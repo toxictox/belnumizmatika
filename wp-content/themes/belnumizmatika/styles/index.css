@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700&subset=cyrillic');
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700&subset=cyrillic');
 *
 {
     -webkit-box-sizing: border-box;
@@ -2949,6 +2951,3 @@ form[class*='buy-now']
 .result-item-descr a {
   color: #1f618d;
 }
-
-
-
