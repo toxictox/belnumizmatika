@@ -12,6 +12,8 @@
             transition: all .2s ease;
 
     outline: none;
+
+    background-color: green;
 }
 @media screen and (min-width: 767px)
 {
