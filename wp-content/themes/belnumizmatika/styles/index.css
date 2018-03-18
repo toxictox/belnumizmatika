@@ -50,7 +50,7 @@
 
         border-right: 1px solid #f2f3f4;
         border-left: 1px solid #f2f3f4;
-        background-color: #1f618d;
+        background-color: #212121;
     }
     html .header-wrapper .header-nav .header-nav-item,
     body .header-wrapper .header-nav .header-nav-item
@@ -64,7 +64,7 @@
         text-decoration: none;
 
         color: #fff;
-        border-right: 1px solid #1a5276;
+        border-right: 1px solid #000;
     }
     html .header-wrapper .header-nav .header-nav-item:hover,
     body .header-wrapper .header-nav .header-nav-item:hover
@@ -976,7 +976,7 @@
         width: 1200px;
         margin: 0 auto;
 
-        background-color: #1f618d;
+        background-color: #212121;
     }
     html .footer-wrapper .footer,
     body .footer-wrapper .footer
@@ -1173,7 +1173,7 @@
         text-align: center;
 
         color: #a9cce3;
-        background-color: #1a5276;
+        background-color: #000;
     }
 }
 @media screen and (max-width: 767px)
