@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-01 21:21+0300\n"
+"PO-Revision-Date: 2018-03-01 21:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: footer.php:6
+msgid "в социальных сетях"
+msgstr ""
+
+#: footer.php:22
+msgid "Пользователь"
+msgstr ""
+
+#: footer.php:28
+msgid ""
+"Оформите подписку на свою электронную почту и получайте свежие новости от "
+"World Coin Shop:"
+msgstr ""
+
+#: header.php:8
+msgid "Главная"
+msgstr ""
+
+#: header.php:18
+msgid "Меню"
+msgstr ""
+
+#: header.php:19
+msgid "Аккаунт"
+msgstr ""
+
+#: header.php:48
+msgid "Сайт работает в тестовом режиме"
+msgstr ""
+
+#: header.php:63
+msgid "В корзине"
+msgstr ""
+
+#: header.php:64
+#, php-format
+msgid "%d товар"
+msgid_plural "%d товаров"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: header.php:69
+msgid "Новые поступления"
+msgstr ""
+
+#: header.php:95
+msgid "Магазины World Coin Shop"
+msgstr ""
+
+#: header.php:96
+msgid "Посмотреть все магазины"
+msgstr ""
+
+#: index.php:8 woocommerce/archive-product-auctions.php:8
+#: woocommerce/archive-product.php:8 woocommerce/taxonomy-product_cat.php:8
+msgid "Параметры поиска"
+msgstr ""
+
+#: page-bid.php:8
+msgid "Ваше имя"
+msgstr ""
+
+#: page-bid.php:9
+msgid "Электронная почта"
+msgstr ""
+
+#: page-bid.php:10
+msgid "Наименование товара"
+msgstr ""
+
+#: page-bid.php:11
+msgid "Ваше предложение"
+msgstr ""
+
+#: page-stores.php:29
+msgid " объявление"
+msgstr ""
+
+#: page-stores.php:32
+msgid " объявления"
+msgstr ""
+
+#: page-stores.php:35
+msgid " объявлений"
+msgstr ""
+
+#: page-stores.php:42
+msgid "Посмотреть все"
+msgstr ""
+
+#: parts/au-last-added.php:2
+msgid "Аукцион"
+msgstr ""
+
+#: parts/auadv.php:24
+msgid "ставки"
+msgstr ""
+
+#: woocommerce/auction-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/auction-searchform.php:3
+msgid "Поиск ауикцонов"
+msgstr ""
+
+#: woocommerce/content-product.php:37
+msgid "Состояние"
+msgstr ""
+
+#: woocommerce/content-product.php:37
+msgid "Год выпуска"
+msgstr ""
+
+#: woocommerce/content-product.php:37
+msgid "Материал"
+msgstr ""
+
+#: woocommerce/content-product.php:41
+msgid "Магазин: "
+msgstr ""
+
+#: woocommerce/content-product.php:58
+msgid "В корзину"
+msgstr ""
+
+#: woocommerce/content-product.php:61
+msgid "Поставить ставку"
+msgstr ""
+
+#: woocommerce/content-product.php:69
+msgid "Предложить цену"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:42
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product/bid.php:32 woocommerce/single-product/bid.php:40
+msgid "Bid"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:59
+msgid "Time left:"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:65 woocommerce/single-product/bid.php:113
+msgid "Auction ends:"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:66
+#, php-format
+msgid "Timezone: %s"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:66
+msgid "UTC+"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:72
+msgid "Reserve price has not been met"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:76
+msgid "Reserve price has been met"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:79
+msgid "This auction is <a href='#'>sealed</a>."
+msgstr ""
+
+#: woocommerce/single-product/bid.php:80
+msgid ""
+"In this type of auction all bidders simultaneously submit sealed bids so "
+"that no bidder knows the bid of any other participant. The highest bidder "
+"pays the price they submitted. If two bids with same value are placed for "
+"auction the one which was placed first wins the auction."
+msgstr ""
+
+#: woocommerce/single-product/bid.php:85
+#, php-format
+msgid "Maximum bid for this auction is %s."
+msgstr ""
+
+#: woocommerce/single-product/bid.php:87
+#, php-format
+msgid "Minimum bid for this auction is %s."
+msgstr ""
+
+#: woocommerce/single-product/bid.php:93
+msgid "This is reverse auction."
+msgstr ""
+
+#: woocommerce/single-product/bid.php:97 woocommerce/single-product/bid.php:100
+msgid "Your max bid is"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:108
+msgid "Auction starts in:"
+msgstr ""
+
+#: woocommerce/single-product/bid.php:112
+msgid "Auction starts:"
+msgstr ""

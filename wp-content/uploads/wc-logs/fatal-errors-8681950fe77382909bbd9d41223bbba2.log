@@ -1,0 +1,42 @@
+2018-03-01T23:28:42+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:37:23+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:37:26+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:37:32+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:37:59+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:38:10+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:38:21+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:38:23+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:38:42+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-01T23:38:43+00:00 CRITICAL Call to undefined function yith_get_vendor()
+
+2018-03-02T16:16:35+00:00 CRITICAL Call to undefined function get_post_thumbnail_url()
+
+2018-03-02T16:16:39+00:00 CRITICAL Call to undefined function get_post_thumbnail_url()
+
+2018-03-02T16:16:46+00:00 CRITICAL Call to undefined function get_post_thumbnail_url()
+
+2018-03-02T16:20:46+00:00 CRITICAL Call to undefined function get_title()
+
+2018-03-02T17:42:31+00:00 CRITICAL Call to undefined method WooCommerce::add_error()
+
+2018-03-02T17:42:37+00:00 CRITICAL Call to undefined method WooCommerce::add_error()
+
+2018-03-02T23:29:43+00:00 CRITICAL Call to undefined method WooCommerce::add_error()
+
+2018-03-03T12:48:48+00:00 CRITICAL Class 'mainMenuWalker' not found
+
+2018-03-03T13:06:53+00:00 CRITICAL Call to undefined method WooCommerce::add_error()
+
+2018-03-03T14:08:40+00:00 CRITICAL Call to undefined method WooCommerce::add_error()
+
+2018-03-03T14:08:44+00:00 CRITICAL Call to undefined method WooCommerce::add_error()
+
